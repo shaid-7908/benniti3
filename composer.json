@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src"
+    }
+  },
+  "require": {
+    "stripe/stripe-php": "^13.2",
+    "godruoyi/php-snowflake": "^3.0",
+    "phpmailer/phpmailer": "^6.9",
+    "cboden/ratchet": "^0.4.4"
+  }
+}
